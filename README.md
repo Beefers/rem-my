@@ -1,4 +1,4 @@
-### Stats 
+### My Stats 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Beefers)
 <table>
