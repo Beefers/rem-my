@@ -1,3 +1,8 @@
+### Hello!
+I'm remmy, but you can call me rem!
+I code things, they're usually bad, but sometimes they're alright.
+My main languages are Batch, JavaScript and some sprinkles of CSS/SCSS.
+
 ### My Stats 
 
 ![Profile views](https://komarev.com/ghpvc/?username=rem-my)
