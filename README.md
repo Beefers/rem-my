@@ -2,6 +2,7 @@
 I'm remmy, but you can call me rem!
 I code things, they're usually bad, but sometimes they're alright.
 My main languages are Batch, JavaScript and some sprinkles of CSS/SCSS.
+If you haven't noticed, I can't write bios very well. Regardless, I'm always open to talk.
 
 ### My Stats 
 
