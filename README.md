@@ -1,9 +1,13 @@
 # Hello!
-I'm remmy, but you can call me rem!
-I code things, they're usually bad, but sometimes they're alright.
+<details>
+  <summary>I'm remmy, but you can call me rem!</summary>
+  
+  <b>Not to be confused with REM, as in the comment in Batchfile, or R.E.M, the rock band, or rem, as in the unit of measurement in CSS/SCSS, or even REM, the stage of sleep.</b>
+</details>
+I code things - they're usually bad, but sometimes they're alright...
 
 ### About me
-I'm a student who *loves* to create ~~useless~~ projects, usually written in JavaScript, Batch, and even some sprinkles of CSS/SCSS.
+I'm a student who *loves* to create ~~useless~~ projects, usually written in JavaScript, Batchfile, or even some sprinkles of CSS/SCSS.
 
 ### Stats 
 
