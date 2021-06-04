@@ -11,14 +11,6 @@ I'm a student who *loves* to create ~~useless~~ projects, usually written in Jav
 
 ### Stats 
 
-<details>
-  <summary><b>OS(es):</b> Windows 10 and Arch Linux</summary>
-  
-  <h1>i use arch btw</h1>
-  <img src="/Arch-linux-logo.png" />
-</details>
-
-
 ![Profile views](https://komarev.com/ghpvc/?username=rem-my)
 <table>
   <tr>
