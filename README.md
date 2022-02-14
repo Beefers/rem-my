@@ -4,7 +4,7 @@ I'm Beefers, but you can call me Beef!
 I code things - they're usually bad, but sometimes they're alright...
 
 ### About me
-I'm a student who *loves* to create ~~useless~~ projects, usually written in JavaScript, Batchfile, or even some sprinkles of CSS/SCSS.
+I'm a student who *loves* to create mediocre projects, usually written in JavaScript or TypeScript - but occasionally other languages.
 
 ### Stats 
 
