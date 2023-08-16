@@ -1,21 +1,19 @@
-# Hello!
-I'm Beefers, but you can call me Beef!
-  
-I code things - they're usually bad, but sometimes they're alright...
+# Hi there!
+I'm maisy. Welcome to my profile!
 
 ### About me
-I'm a student who *loves* to create mediocre projects, usually written in JavaScript or TypeScript - but occasionally other languages.
+I'm a student from Britain who is particularly passionate about programming - especially in TypeScript.
 
 ### Stats 
 
-![Profile views](https://komarev.com/ghpvc/?username=Beefers)
+![Profile views](https://komarev.com/ghpvc/?username=maisymoe)
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=Beefers&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=maisymoe&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dracula" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=Beefers&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
+      <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=maisymoe&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
     </td>
   </tr>
 </table>
